@@ -10,5 +10,6 @@ public class Casting {
        String p = "2";
         int q = Integer.parseInt(p) + 3;//change string into integer
         System.out.println(q);
+
     }
 }
