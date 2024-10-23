@@ -10,5 +10,13 @@ public class Main {
         Date now =  new Date();//reference type
         System.out.println(now);
 
+        int x = 10;
+        if(x > 0){
+            System.out.println("even no.");
+        }
+        else{
+            System.out.println("odd n0.");
+        }
+
     }
 }
