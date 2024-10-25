@@ -11,7 +11,7 @@ public class Main {
         System.out.println(now);
 
         int x = 12;
-        if(x > 0){
+        if(x % 2 == 0){
             System.out.println("This is even no.");
         }
         else{
