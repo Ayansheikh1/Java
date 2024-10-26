@@ -10,11 +10,12 @@ public class Main {
         Date now =  new Date();//reference type
         System.out.println(now);
 
-        int x = 12;
-        if(x % 2 == 0){
+        int x = 10;
+        if(x==0){
+            System.out.println("Zero");
+        } else if (x % 2 == 0) {
             System.out.println("This is even no.");
-        }
-        else{
+        } else{
             System.out.println("This is odd no.");
         }
 
