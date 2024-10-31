@@ -8,6 +8,8 @@ public class MortgagePaymentCalculator {
         final byte MONTHS_IN_YEARS = 12;
         final byte PERCENT = 100;
 
+        System.out.println("Welcome");
+
 
         //Take all the input from user
         Scanner sc = new Scanner(System.in);
