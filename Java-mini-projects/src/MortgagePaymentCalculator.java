@@ -35,7 +35,8 @@ public class MortgagePaymentCalculator {
 
         //finally print
         System.out.println("Mortgage : " +mortgageFormatted);
-        System.out.println("Thank you!");
+        System.out.println("Thank you so much!");
+
 
 
 
